@@ -1,7 +1,7 @@
 {
   "dataset": {
     "repo": "ffanyt/Mibot-RSI-knowledge",
-    "revision": "4b573266ae67c6c2d25ab2bb04de22d0d1c219a2"
+    "revision": "a48538e9b6cfe6d8a880b102c07801ce1a66f31e"
   },
   "knowledge": {
     "ckpt_name": "eval",
@@ -24,11 +24,11 @@
       },
       "build_tower": {
         "archive": "knowledge/eval/build_tower.tar.gz",
-        "bytes": 12675583,
-        "files": 69,
-        "manifest_sha256": "32999b368c3130876200b7f178747d09cc165f98e808ca4a1683eec9275f7f2c",
-        "sha256": "86d9ba7e79afe6ed46c0be07f24ba5887e7883321bfb22b376ab97805d137251",
-        "snapshot_id": "45650a372d780dad"
+        "sha256": "5eb72414726eb0b9cbe800e89abc9cb546d8943dff9fea2615ccb69f4188d27a",
+        "bytes": 12691648,
+        "snapshot_id": "75844291c0d61e79",
+        "manifest_sha256": "1129faf0262e404061cffdb255a74182a9652bf05c4d924a3995d53192f6c6e3",
+        "files": 77
       },
       "classify_objects": {
         "archive": "knowledge/eval/classify_objects.tar.gz",
@@ -112,11 +112,11 @@
       },
       "imitate_sorting_sequence": {
         "archive": "knowledge/eval/imitate_sorting_sequence.tar.gz",
-        "bytes": 11360087,
-        "files": 58,
-        "manifest_sha256": "f2bdd479673590f0fc8d252441b73318d544f473c663921cce46c4882afedd18",
-        "sha256": "6e88bb555810b0571e426fbe607e8bdd21d16f9889b8920d4b7edcdc9eba13f2",
-        "snapshot_id": "217e31b90475145e"
+        "sha256": "02133c44f26825c02eac1b298014b876cbb477bfa9d62fdf4a017e0e46ff10c2",
+        "bytes": 11290154,
+        "snapshot_id": "e33d82d416619059",
+        "manifest_sha256": "daa7955125b4dd3fb9b10d39c7a5d7478f18b24489942620ae0fa199dcea2cf3",
+        "files": 43
       },
       "insert_key": {
         "archive": "knowledge/eval/insert_key.tar.gz",
@@ -176,19 +176,19 @@
       },
       "pick_from_conveyor_by_image": {
         "archive": "knowledge/eval/pick_from_conveyor_by_image.tar.gz",
-        "bytes": 9227750,
-        "files": 43,
-        "manifest_sha256": "c7d4ee82db4dbb5561f5e26f1b731819c69e4e48825c1acbda190a4ad8ce9a30",
-        "sha256": "71986b0321d45d3c6fa6fc55b33d1dbe99ba3740ee1723d5414ee901a0dc04a0",
-        "snapshot_id": "2ca3502aef637009"
+        "sha256": "5e5cb358f1094a413eb235e2428d11d73b45844b9c86c61d2e7da966f0662b50",
+        "bytes": 9315102,
+        "snapshot_id": "0514c9a4d39c4e00",
+        "manifest_sha256": "745b07fd91bfa9d5a171c18ef46fa157d7c12a24f681621e022425ab1cf08ee5",
+        "files": 66
       },
       "play_Xylophone": {
         "archive": "knowledge/eval/play_Xylophone.tar.gz",
-        "bytes": 10676476,
-        "files": 38,
-        "manifest_sha256": "a566650a83287372a866366630de9caacf7721aa4b14cfbce69e6d32e30c4621",
-        "sha256": "362b288d7506a7e4e668ad5e376a515bfd6ed9bd344649dd1ceddba702c2b6a7",
-        "snapshot_id": "ec7044c1b2eb8563"
+        "sha256": "ed91651e98bb228690c1bc6cf8121df4262d8eca330e5b01cbd658d1f79242f9",
+        "bytes": 10694535,
+        "snapshot_id": "516c8be07a9d7cce",
+        "manifest_sha256": "99cf9621d0bfc30b836255c222a3c0dadc8e6d425908f18000bc387e2a0ed4f3",
+        "files": 43
       },
       "play_stacking_toy": {
         "archive": "knowledge/eval/play_stacking_toy.tar.gz",
@@ -224,11 +224,11 @@
       },
       "pour_by_language": {
         "archive": "knowledge/eval/pour_by_language.tar.gz",
-        "bytes": 10715499,
-        "files": 41,
-        "manifest_sha256": "cf6e7d69acd80efa169a01b246edd087f596bac74202f66ce8aef717df80e408",
-        "sha256": "efe1a438e6d015a898b3292f66966bebfd368869cf6244ef55c8dd31ef38631a",
-        "snapshot_id": "c015256ef0a1be81"
+        "sha256": "e30b2557b43b91a8981c8ad8398d7e7228b561f5d601d5d599bc460eb7dd1906",
+        "bytes": 10798289,
+        "snapshot_id": "5f8455adf83c874e",
+        "manifest_sha256": "1d1b5e63fc4cbec483175288cab1640feeaa3c08238101602ee89df95e90116b",
+        "files": 64
       },
       "pour_liquid_into_cup": {
         "archive": "knowledge/eval/pour_liquid_into_cup.tar.gz",
@@ -312,11 +312,11 @@
       },
       "store_tools_in_toolbox": {
         "archive": "knowledge/eval/store_tools_in_toolbox.tar.gz",
-        "bytes": 14510725,
-        "files": 65,
-        "manifest_sha256": "ff9bd8400468ade29a244cc157c8fa57d7f278a6c281f3e77c9ce020b38183a8",
-        "sha256": "83358b89251bbf919d12bf76c99504b152a4a04a3fbd5c38efc263e1e4f8641f",
-        "snapshot_id": "93064c61a5af40a3"
+        "sha256": "5fc49f3acf12ac66500df7b3f072e1fdc7d40ee2f9595477d5ef24b5b7da4869",
+        "bytes": 14635460,
+        "snapshot_id": "70209ec5b9982a6e",
+        "manifest_sha256": "31f2421dd6143a351bed72b07cc8604e3491e44bdeb2eef303e5ec2d8a2b0a74",
+        "files": 91
       },
       "swap_T": {
         "archive": "knowledge/eval/swap_T.tar.gz",
